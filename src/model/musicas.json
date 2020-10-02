@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "title": "My cherie amour",
+        "artist": "Stevie Wonder",
+        "duration": "2:53",
+        "yean": "1969",
+        "language": "English",
+        "genre": "R&B"
+    },
+    {
+        "id": 2,
+        "title": "Say say say",
+        "artist": "Paul McCartney e Michael Jackson",
+        "duration": "3:55",
+        "year": "1983",
+        "language": "English",
+        "genre": "Pop"
+    },
+     {
+        "id": 3,
+        "title": "Maneater",
+        "artist": "Daryl Hall e John Oates",
+        "duration": "4:33",
+        "year": "1982",
+        "language": "English",
+        "genre": "Pop Rock"
+    },
+    {
+        "id": 4,
+        "title": "Don't dream it's over",
+        "band": "Crowded House",
+        "duration": "3:56",
+        "year": "2003",
+        "language": "English",
+        "genre": "Rock"
+    },
+    {
+        "id": 5,
+        "title": "Maniac",
+        "artist": "Michael Sembello",
+        "duration": "4:04",
+        "year": "1983",
+        "language": "English",
+        "genre": "Hi-NRG"
+    },
+    {
+        "id": 6,
+        "title": "Ninguém me ensinou",
+        "band": "Lagum",
+        "duration": "2:57",
+        "year": "2020",
+        "language": "Portuguese",
+        "genre": "Pop"
+    },
+    {
+        "id": 7,
+        "title": "Ele me amou primeiro",
+        "band": "Ministério Morada",
+        "duration": "4:17",
+        "year": "2017",
+        "language": "Portuguese",
+        "genre": "Reggae"
+    },
+    {
+        "id": 8,
+        "title": "Ex-Factor",
+        "artist": "Ms. Lauryn Hill",
+        "duration": "4:04",
+        "year": "1998",
+        "language": "English",
+        "genre": "Hip hop"
+    },
+    {
+        "id": 9,
+        "title": "Dog days are over",
+        "artist": "Florence + The Machine",
+        "duration": "4:12",
+        "year": "2009",
+        "language": "English",
+        "genre": "Indie Rock"
+    },
+    {
+        "id": 10,
+        "title": "J'aime à nouveau",
+        "artist": "Zaz",
+        "duration": "3:37",
+        "year": "2010",
+        "language": "French",
+        "genre": "Jazz"
+    }
+]
